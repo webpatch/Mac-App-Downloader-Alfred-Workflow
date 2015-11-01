@@ -1,10 +1,17 @@
 #Mac's App Downloader Alfred Workflow
 
+<img src="https://raw.githubusercontent.com/webpatch/Mac-App-Downloader-Alfred-Workflow/master/preview/preview.gif"/>
 ##关键字
-* `macx` / `macx+`（带详情）
-  * <kbd>option</kbd> + <kbd>enter</kbd>  使用迅雷下载(需要安装迅雷)
-  * <kbd>cmmonand</kbd> + <kbd>enter</kbd> 使用浏览器下载
-  * <kbd>shift</kbd> 预览下载页面
+### `macx` 
+* <kbd>option</kbd> + <kbd>enter</kbd>  使用迅雷下载(需要安装迅雷)
+* <kbd>cmmonand</kbd> + <kbd>enter</kbd> 使用浏览器下载
+* <kbd>shift</kbd> 预览下载页面
+<img width=50% src="https://raw.githubusercontent.com/webpatch/Mac-App-Downloader-Alfred-Workflow/master/preview/macx.png"/>
+
+###`macx+`（带详情）
+* 同`macx`
+<img width=50% src="https://raw.githubusercontent.com/webpatch/Mac-App-Downloader-Alfred-Workflow/master/preview/macx%2B.png"/>
   
-* `tr`
-  * <kbd>shift</kbd> 预览下载页面
+### `tr`
+* <kbd>shift</kbd> 预览下载页面
+<img width=50% src="https://raw.githubusercontent.com/webpatch/Mac-App-Downloader-Alfred-Workflow/master/preview/tr.png"/>
