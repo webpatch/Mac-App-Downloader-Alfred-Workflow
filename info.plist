@@ -66,6 +66,14 @@
 				<key>modifiersubtext</key>
 				<string>直接下载</string>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D88AAA40-CD22-4B73-90D9-9285F5CBBA58</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>迅雷下载</string>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -244,6 +252,25 @@
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>python mx_download.py {query} --app thunder</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D88AAA40-CD22-4B73-90D9-9285F5CBBA58</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -262,12 +289,17 @@
 		<key>CC89B63A-ECEC-47A6-8CDE-5E1BBABCD4F4</key>
 		<dict>
 			<key>ypos</key>
-			<real>290</real>
+			<real>250</real>
+		</dict>
+		<key>D88AAA40-CD22-4B73-90D9-9285F5CBBA58</key>
+		<dict>
+			<key>ypos</key>
+			<real>370</real>
 		</dict>
 		<key>E02B6733-6046-465F-BCB0-63D8F834B54D</key>
 		<dict>
 			<key>ypos</key>
-			<real>140</real>
+			<real>120</real>
 		</dict>
 		<key>E6008EB5-F1A7-46E1-AAD2-115EABEC091B</key>
 		<dict>
