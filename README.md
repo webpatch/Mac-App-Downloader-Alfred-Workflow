@@ -28,7 +28,7 @@ Mac xx(你懂的)软件搜索/下载 workflow<br>
 <img  src="https://raw.githubusercontent.com/webpatch/Mac-App-Downloader-Alfred-Workflow/master/preview/macx%2B.jpg"/>
   
 ### `tr`
-* <kbd>option</kbd> 使用浏览器打开真实下载地址
+* <kbd>option</kbd> 使用浏览器打开真实下载地址 （稍等10秒左右）
 * <kbd>shift</kbd> 预览下载页面
 * <kbd>enter</kbd> 使用浏览器打开下载页面
 <br/>
